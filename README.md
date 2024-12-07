@@ -17,3 +17,7 @@ ______
  **📌 𝐖𝐡𝐨 𝐰𝐞 𝐚𝐫𝐞**
 We are a team of passionate educators and professionals committed to supporting the holistic development of students from academic guidance to extracurricular opportunities
  **𝐎𝐮𝐫 𝐠𝐨𝐚𝐥** is to empower learners to reach their full potential and prepare them for a successful future.
+
+
+
+[Figma Design]([(https://www.figma.com/design/a8drYK40yT6lhfRr4x4IFi/School-website?node-id=0-1&node-type=canvas&t=E8rQwE7S5hDAT5RK-0))
