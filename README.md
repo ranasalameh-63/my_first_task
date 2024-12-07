@@ -4,7 +4,7 @@
 
 **📌 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐖𝐚𝐲 𝐎𝐟 𝐒𝐜𝐡𝐨𝐨𝐥** 
 
- we are dedicated to providing an enriching educational experience that caters to every student's growth and succes
+ We are dedicated to providing an enriching educational experience that caters to every student's growth and succes
 _______________
 
 # ✨*𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬*
