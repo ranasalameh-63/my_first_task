@@ -20,4 +20,4 @@ We are a team of passionate educators and professionals committed to supporting 
 
 
 
-[Figma Design]([(https://www.figma.com/design/a8drYK40yT6lhfRr4x4IFi/School-website?node-id=0-1&node-type=canvas&t=E8rQwE7S5hDAT5RK-0))
+[Figma design](https://www.figma.com/design/a8drYK40yT6lhfRr4x4IFi/School-website?node-id=0-1&node-type=canvas&t=E8rQwE7S5hDAT5RK-0)
